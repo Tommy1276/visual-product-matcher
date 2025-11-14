@@ -6,3 +6,5 @@ scikit-learn==1.4.2
 requests==2.31.0
 sentence-transformers==2.5.1
 gunicorn==21.2.0
+
+--extra-index-url https://download.pytorch.org/whl/cpu
