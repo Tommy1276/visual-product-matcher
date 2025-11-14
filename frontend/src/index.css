@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Page level small tweaks */
+:root {
+  --brand: #4f46e5;
+  --muted: #6b7280;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* print styling */
+@media print {
+  body * { visibility: hidden; }
+  .printable, .printable * { visibility: visible; }
+  .printable { position: absolute; left: 0; top: 0; width: 100%; }
+}

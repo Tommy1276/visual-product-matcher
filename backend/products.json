@@ -1,0 +1,62 @@
+[
+    { "id": 0, "name": "Running Shoe Alpha", "category": "Shoes", "image_url": "https://picsum.photos/id/21/400/400" },
+    { "id": 1, "name": "Trail Runner Pro", "category": "Shoes", "image_url": "https://picsum.photos/id/22/400/400" },
+    { "id": 2, "name": "Classic Leather Shoes", "category": "Shoes", "image_url": "https://picsum.photos/id/23/400/400" },
+    { "id": 3, "name": "White Sports Sneakers", "category": "Shoes", "image_url": "https://picsum.photos/id/24/400/400" },
+    { "id": 4, "name": "Minimalist Sneakers", "category": "Shoes", "image_url": "https://picsum.photos/id/25/400/400" },
+  
+    { "id": 5, "name": "Casual Backpack", "category": "Bags", "image_url": "https://picsum.photos/id/30/400/400" },
+    { "id": 6, "name": "Adventure Travel Bag", "category": "Bags", "image_url": "https://picsum.photos/id/31/400/400" },
+    { "id": 7, "name": "Leather Travel Backpack", "category": "Bags", "image_url": "https://picsum.photos/id/32/400/400" },
+    { "id": 8, "name": "Urban Laptop Bag", "category": "Bags", "image_url": "https://picsum.photos/id/33/400/400" },
+    { "id": 9, "name": "Daily Casual Sling", "category": "Bags", "image_url": "https://picsum.photos/id/34/400/400" },
+  
+    { "id": 10, "name": "Digital Wrist Watch", "category": "Watches", "image_url": "https://picsum.photos/id/50/400/400" },
+    { "id": 11, "name": "Luxury Gold Watch", "category": "Watches", "image_url": "https://picsum.photos/id/51/400/400" },
+    { "id": 12, "name": "Leather Strap Watch", "category": "Watches", "image_url": "https://picsum.photos/id/52/400/400" },
+    { "id": 13, "name": "Modern Analog Watch", "category": "Watches", "image_url": "https://picsum.photos/id/53/400/400" },
+    { "id": 14, "name": "Black Sports Watch", "category": "Watches", "image_url": "https://picsum.photos/id/54/400/400" },
+  
+    { "id": 15, "name": "Red Hoodie Classic", "category": "Clothing", "image_url": "https://picsum.photos/id/60/400/400" },
+    { "id": 16, "name": "Casual White T-Shirt", "category": "Clothing", "image_url": "https://picsum.photos/id/61/400/400" },
+    { "id": 17, "name": "Denim Blue Jeans", "category": "Clothing", "image_url": "https://picsum.photos/id/62/400/400" },
+    { "id": 18, "name": "Summer Yellow Dress", "category": "Clothing", "image_url": "https://picsum.photos/id/63/400/400" },
+    { "id": 19, "name": "Black Leather Jacket", "category": "Clothing", "image_url": "https://picsum.photos/id/64/400/400" },
+  
+    { "id": 20, "name": "Retro Camera", "category": "Electronics", "image_url": "https://picsum.photos/id/70/400/400" },
+    { "id": 21, "name": "Bluetooth Headphones", "category": "Electronics", "image_url": "https://picsum.photos/id/71/400/400" },
+    { "id": 22, "name": "Portable Speaker", "category": "Electronics", "image_url": "https://picsum.photos/id/72/400/400" },
+    { "id": 23, "name": "Smartphone Black", "category": "Electronics", "image_url": "https://picsum.photos/id/73/400/400" },
+    { "id": 24, "name": "Gaming Mouse", "category": "Electronics", "image_url": "https://picsum.photos/id/74/400/400" },
+  
+    { "id": 25, "name": "Wooden Chair", "category": "Furniture", "image_url": "https://picsum.photos/id/80/400/400" },
+    { "id": 26, "name": "Living Room Sofa", "category": "Furniture", "image_url": "https://picsum.photos/id/81/400/400" },
+    { "id": 27, "name": "Office Work Desk", "category": "Furniture", "image_url": "https://picsum.photos/id/82/400/400" },
+    { "id": 28, "name": "Study Table Lamp", "category": "Furniture", "image_url": "https://picsum.photos/id/83/400/400" },
+    { "id": 29, "name": "Minimalist Bookshelf", "category": "Furniture", "image_url": "https://picsum.photos/id/84/400/400" },
+  
+    { "id": 30, "name": "Black Coffee Mug", "category": "Kitchen", "image_url": "https://picsum.photos/id/90/400/400" },
+    { "id": 31, "name": "Stainless Bottle", "category": "Kitchen", "image_url": "https://picsum.photos/id/91/400/400" },
+    { "id": 32, "name": "Cooking Pan Set", "category": "Kitchen", "image_url": "https://picsum.photos/id/92/400/400" },
+    { "id": 33, "name": "Kitchen Knife Set", "category": "Kitchen", "image_url": "https://picsum.photos/id/93/400/400" },
+    { "id": 34, "name": "Wooden Cutting Board", "category": "Kitchen", "image_url": "https://picsum.photos/id/94/400/400" },
+  
+    { "id": 35, "name": "Yoga Mat Blue", "category": "Sports", "image_url": "https://picsum.photos/id/100/400/400" },
+    { "id": 36, "name": "Football Official", "category": "Sports", "image_url": "https://picsum.photos/id/101/400/400" },
+    { "id": 37, "name": "Running Dumbbells", "category": "Sports", "image_url": "https://picsum.photos/id/102/400/400" },
+    { "id": 38, "name": "Tennis Racket", "category": "Sports", "image_url": "https://picsum.photos/id/103/400/400" },
+    { "id": 39, "name": "Cricket Bat Pro", "category": "Sports", "image_url": "https://picsum.photos/id/104/400/400" },
+  
+    { "id": 40, "name": "Hair Dryer", "category": "Beauty", "image_url": "https://picsum.photos/id/110/400/400" },
+    { "id": 41, "name": "Skin Care Cream", "category": "Beauty", "image_url": "https://picsum.photos/id/111/400/400" },
+    { "id": 42, "name": "Makeup Brush Set", "category": "Beauty", "image_url": "https://picsum.photos/id/112/400/400" },
+    { "id": 43, "name": "Perfume Bottle", "category": "Beauty", "image_url": "https://picsum.photos/id/113/400/400" },
+    { "id": 44, "name": "Face Mask Pack", "category": "Beauty", "image_url": "https://picsum.photos/id/114/400/400" },
+  
+    { "id": 45, "name": "Books Set", "category": "Books", "image_url": "https://picsum.photos/id/120/400/400" },
+    { "id": 46, "name": "Notebook Classic", "category": "Books", "image_url": "https://picsum.photos/id/121/400/400" },
+    { "id": 47, "name": "Pen Collection", "category": "Books", "image_url": "https://picsum.photos/id/122/400/400" },
+    { "id": 48, "name": "Reading Lamp", "category": "Books", "image_url": "https://picsum.photos/id/123/400/400" },
+    { "id": 49, "name": "Study Journal", "category": "Books", "image_url": "https://picsum.photos/id/124/400/400" }
+  ]
+  

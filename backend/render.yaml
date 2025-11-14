@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: visual-product-matcher
+    env: python
+    buildCommand: ""
+    startCommand: "./start.sh"
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12
